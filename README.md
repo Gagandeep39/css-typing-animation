@@ -1,6 +1,6 @@
-# Title
+# Typing Animation
 
-- [Title](#title)
+- [Typing Animation](#typing-animation)
   - [Deployment](#deployment)
   - [Description](#description)
   - [Screenshots](#screenshots)
